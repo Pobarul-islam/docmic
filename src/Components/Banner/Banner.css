@@ -1,0 +1,26 @@
+.banner{
+    height: 100vh;
+}
+.bannerCircle{
+    width: 450px;
+    height: 450px;
+    border: double 20px transparent;
+    border-radius: 50%;
+    background-image: linear-gradient(rgb(240, 245, 247), rgb(235, 244, 247)), radial-gradient(circle at top left, rgb(192, 166, 252), rgb(97, 53, 231), rgb(238, 245, 247), rgb(238, 245, 247), rgb(238, 245, 247));
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+}
+
+.priorityText{
+    color: #642DFF;
+}
+
+.healthText{
+    color: #2D89FF;
+}
+
+.meetBtn{
+    background-color: #2D89FF;
+    color: white;
+    border: none;
+}

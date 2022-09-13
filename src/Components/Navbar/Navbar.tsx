@@ -28,8 +28,8 @@ export default function NavBar() {
       {menuItem}
     </ul>
   </div>
-  <div className="navbar-end consulation">
-    <a  className="btn btn-primary mr-10">Free Consulation</a>
+  <div className="navbar-end">
+    <a  className="btn btnColor mr-10">Free Consulation</a>
   </div>
 </div>
     );
